@@ -6,4 +6,4 @@ Konechiwa
 22022609 - Nguyễn Minh Hiếu
 22022582 - Nguyễn Quang Huy
 #Project Subject
-Prove an app
+Education
