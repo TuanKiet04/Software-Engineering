@@ -6,7 +6,8 @@
 - 22022582 - Nguyễn Quang Huy
 ## Project Subject
 Web thương mại điện tử
-### **TỔNG QUAN DỰ ÁN: Trang web bán đồng hồ**
+##
+# **TỔNG QUAN DỰ ÁN: Trang web bán đồng hồ**
 **1. Tóm tắt về dự án:**
 
 - Dự án nhằm xây dựng một trang web bán đồng hồ trực tuyến, cung cấp cho người dùng một nền tảng tiện lợi để mua sắm các sản phẩm đồng hồ từ các thương hiệu uy tín.
