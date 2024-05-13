@@ -16,7 +16,7 @@ Web thương mại điện tử
 
 - **Tìm kiếm và xem sản phẩm:**
     - Người dùng có thể tìm kiếm sản phẩm theo danh mục, thương hiệu, giá cả và tính năng khác nhau.
-    - Các tính năng tương tác như zoom ảnh sản phẩm và xem đánh giá từ người dùng trước đó.
+    - Các tính năng tương tác như xem đánh giá từ người dùng trước đó.
 - **Giỏ hàng và thanh toán:**
     - Cho phép người dùng thêm sản phẩm vào giỏ hàng và điều chỉnh số lượng.
     - Hỗ trợ nhiều phương thức thanh toán an toàn và thuận tiện như thẻ tín dụng, chuyển khoản ngân hàng.
