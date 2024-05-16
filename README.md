@@ -6,33 +6,33 @@
 - 22022582 - Nguyễn Quang Huy
 ## Project Subject
 Web thương mại điện tử
-# **TỔNG QUAN DỰ ÁN: Trang web bán đồng hồ**
-**1. Tóm tắt về dự án:**
+# **BÁO CÁO TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
 
-- Dự án nhằm xây dựng một trang web bán đồng hồ trực tuyến, cung cấp cho người dùng một nền tảng tiện lợi để mua sắm các sản phẩm đồng hồ từ các thương hiệu uy tín.
-- Trang web sẽ cung cấp các tính năng như tìm kiếm sản phẩm, xem chi tiết, thêm vào giỏ hàng và thanh toán trực tuyến, đảm bảo trải nghiệm mua sắm thuận tiện và an toàn cho người dùng.
+**1. Mục tiêu dự án:**
+- Dự án nhằm xây dựng một trang web bán quần áo trẻ em trực tuyến nhằm cung cấp một trải nghiệm mua sắm thuận tiện và an toàn cho các bậc phụ huynh.
+- Mục tiêu của dự án là cung cấp một nền tảng trực tuyến đa dạng, dễ sử dụng và tin cậy, giúp khách hàng dễ dàng tìm kiếm và mua sắm những sản phẩm quần áo chất lượng cho trẻ em của mình.
 
-**2. Tính năng và công nghệ:**
+**2. Tính cấp thiết của dự án:**
+- Nhu cầu mua sắm trực tuyến đang ngày càng tăng, đặc biệt là trong lĩnh vực thời trang trẻ em, khi mà việc mua sắm trực tuyến mang lại sự tiện lợi và linh hoạt cho các bậc phụ huynh.
+- Thị trường thời trang trẻ em đang phát triển mạnh mẽ và cạnh tranh, do đó việc có một nền tảng mua sắm trực tuyến hiệu quả và thu hút khách hàng là rất quan trọng.
 
-- **Tìm kiếm và xem sản phẩm:**
-    - Người dùng có thể tìm kiếm sản phẩm theo danh mục, thương hiệu, giá cả và tính năng khác nhau.
-    - Các tính năng tương tác như xem đánh giá từ người dùng trước đó.
-- **Giỏ hàng và thanh toán:**
-    - Cho phép người dùng thêm sản phẩm vào giỏ hàng và điều chỉnh số lượng.
-    - Hỗ trợ nhiều phương thức thanh toán an toàn và thuận tiện như thẻ tín dụng, chuyển khoản ngân hàng.
-- **Quản lý tài khoản:**
-    - Người dùng có thể đăng ký tài khoản để theo dõi đơn hàng, lịch sử mua hàng và quản lý thông tin cá nhân.
+**3. Đối tượng và mục tiêu:**
+- Đối tượng: Phụ huynh, người giám hộ có trẻ em trong độ tuổi từ sơ sinh đến 12 tuổi.
+- Mục tiêu: Cung cấp các sản phẩm quần áo trẻ em đa dạng về kiểu dáng, chất liệu và giá cả, đảm bảo chất lượng, thẩm mỹ và tính thời trang, đồng thời tạo ra trải nghiệm mua sắm trực tuyến thuận tiện và tin cậy cho khách hàng.
 
-**3. Giá trị của dự án:**
+**4. Tính năng chính của trang web:**
+- Danh mục sản phẩm phong phú: Hiển thị các danh mục sản phẩm rõ ràng và dễ dàng tìm kiếm.
+- Tìm kiếm và lọc sản phẩm: Cung cấp công cụ tìm kiếm và lọc sản phẩm linh hoạt.
+- Trang chi tiết sản phẩm: Hiển thị thông tin chi tiết, hình ảnh rõ ràng và đánh giá từ người dùng.
+- Chức năng đặt hàng và thanh toán: Cho phép người dùng thêm sản phẩm vào giỏ hàng, chọn phương thức thanh toán và hoàn tất đơn hàng một cách dễ dàng và an toàn.
+- Quản lý tài khoản: Cho phép khách hàng quản lý thông tin cá nhân và theo dõi trạng thái đơn hàng.
+- Chương trình khuyến mãi và giảm giá: Thông báo về các chương trình khuyến mãi và giảm giá đặc biệt để thu hút khách hàng.
+- Hỗ trợ khách hàng: Cung cấp kênh hỗ trợ khách hàng hiệu quả để giải đáp mọi thắc mắc và phản hồi của khách hàng.
 
-- Cung cấp một nền tảng trực tuyến đáng tin cậy và thuận tiện để mua sắm các sản phẩm đồng hồ từ các thương hiệu uy tín.
-- Tạo ra trải nghiệm mua sắm đồng hồ trực tuyến dễ dàng và tiện lợi, giúp người dùng tiết kiệm thời gian và công sức.
+**5. Giá trị của dự án:**
+- Tiện lợi và linh hoạt: Cung cấp một trải nghiệm mua sắm trực tuyến thuận tiện, nhanh chóng và linh hoạt cho các bậc phụ huynh.
+- Chất lượng và đa dạng: Đảm bảo cung cấp các sản phẩm quần áo trẻ em chất lượng, đa dạng về kiểu dáng, màu sắc và chất liệu.
+- Tin cậy và an toàn: Xây dựng một môi trường mua sắm trực tuyến tin cậy và an toàn, đảm bảo thông tin cá nhân và giao dịch của khách hàng được bảo mật.
 
-**4. Tính cần thiết của dự án:**
-
-- Ngày nay, việc mua sắm trực tuyến trở nên phổ biến và thuận tiện hơn bao giờ hết.
-- Người tiêu dùng ngày càng tìm kiếm các nền tảng mua sắm trực tuyến đáng tin cậy và an toàn để mua các sản phẩm cao cấp như đồng hồ.
-
-**5. Tổng kết:**
-
-- Dự án trang web bán đồng hồ mang lại giá trị bằng cách cung cấp một nền tảng mua sắm trực tuyến đáng tin cậy và thuận tiện cho người tiêu dùng, đồng thời nâng cao trải nghiệm mua sắm đồng hồ trực tuyến.
+**Kết luận:**
+Dự án bán quần áo trẻ em không chỉ đáp ứng nhu cầu mua sắm thời trang của khách hàng mà còn mang lại giá trị bổ sung về tiện lợi, chất lượng và an toàn trong quá trình mua sắm trực tuyến. Việc phát triển một trang web bán hàng trẻ em hiệu quả và thu hút khách hàng sẽ đóng vai trò quan trọng trong việc tạo lập và mở rộng thị trường kinh doanh.
