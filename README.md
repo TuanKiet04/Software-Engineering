@@ -1,9 +1,9 @@
 # Software Engineering - Ecommerce Website
 ## Contributors - Group 92
-- 22022643 - Ngô Văn Kiệt
-- 22022579 - Nguyễn Bình Minh
-- 22022609 - Nguyễn Minh Hiếu
-- 22022582 - Nguyễn Quang Huy
+- 22022643 K67_AI1_UET - Ngô Văn Kiệt
+- 22022579 K67_AI1_UET - Nguyễn Bình Minh
+- 22022609 K67_AI1_UET - Nguyễn Minh Hiếu
+- 22022582 K67_AI1_UET - Nguyễn Quang Huy
 ## Project Subject
 Web thương mại điện tử
 # **BÁO CÁO TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
