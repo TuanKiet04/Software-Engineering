@@ -1,5 +1,5 @@
-# Software Engineering - Group 92
-## Contributors
+# Software Engineering - Ecommerce Website
+## Contributors - Group 92
 - 22022643 - Ngô Văn Kiệt
 - 22022579 - Nguyễn Bình Minh
 - 22022609 - Nguyễn Minh Hiếu
