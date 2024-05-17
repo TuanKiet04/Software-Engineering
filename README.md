@@ -4,8 +4,7 @@
 - 22022579 K67_AI1_UET - Nguyễn Bình Minh
 - 22022609 K67_AI1_UET - Nguyễn Minh Hiếu
 - 22022582 K67_AI1_UET - Nguyễn Quang Huy
-## Project Subject
-Web thương mại điện tử
+
 # **BÁO CÁO TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
 
 **1. Mục tiêu dự án:**
