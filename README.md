@@ -38,16 +38,16 @@ Dự án bán quần áo trẻ em không chỉ đáp ứng nhu cầu mua sắm t
 
 # ## Hướng Dẫn Cài Đặt
 
-#### Cài Đặt Composer Trên Windows
+**Cài Đặt Composer Trên Windows**
 Composer là một công cụ quản lý phụ thuộc (dependency) cho PHP, cho phép bạn quản lý các thư viện và gói mà dự án của bạn phụ thuộc vào. Dưới đây là các bước cài đặt Composer:
 1. Tải xuống và chạy trình cài đặt từ [Composer-Setup.exe](https://getcomposer.org/Composer-Setup.exe).
 2. Trình cài đặt sẽ tự động cài đặt Composer và các phụ thuộc cần thiết.
 3. `sudo mv composer.phar /usr/local/bin/composer`
 
-## Cài đặt framework Laravel
-`composer global require laravel/installer`
-`laravel new project-name`
+**Cài đặt framework Laravel**
+`composer global require laravel/installer
+laravel new project-name`
 
-## Pull code về máy và chạy
+**Pull code về máy và chạy**
 `cd project-name
 php artisan serve`
