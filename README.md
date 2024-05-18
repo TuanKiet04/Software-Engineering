@@ -35,3 +35,12 @@
 
 **Kết luận:**
 Dự án bán quần áo trẻ em không chỉ đáp ứng nhu cầu mua sắm thời trang của khách hàng mà còn mang lại giá trị bổ sung về tiện lợi, chất lượng và an toàn trong quá trình mua sắm trực tuyến. Việc phát triển một trang web bán hàng trẻ em hiệu quả và thu hút khách hàng sẽ đóng vai trò quan trọng trong việc tạo lập và mở rộng thị trường kinh doanh.
+
+### Hướng Dẫn Cài Đặt Composer
+
+Composer là một công cụ quản lý phụ thuộc (dependency) cho PHP, cho phép bạn quản lý các thư viện và gói mà dự án của bạn phụ thuộc vào. Dưới đây là các bước cài đặt Composer:
+
+#### Cài Đặt Composer Trên Windows
+
+1. Tải xuống và chạy trình cài đặt từ [Composer-Setup.exe](https://getcomposer.org/Composer-Setup.exe).
+2. Trình cài đặt sẽ tự động cài đặt Composer và các phụ thuộc cần thiết.
