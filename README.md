@@ -45,9 +45,13 @@ Composer là một công cụ quản lý phụ thuộc (dependency) cho PHP, cho
 3. `sudo mv composer.phar /usr/local/bin/composer`
 
 **Cài đặt framework Laravel**
-`composer global require laravel/installer
-laravel new project-name`
+```sh
+composer global require laravel/installer
+laravel new project-name
+```
 
 **Pull code về máy và chạy**
-`cd project-name
-php artisan serve`
+```sh
+cd project-name
+php artisan serve
+```
