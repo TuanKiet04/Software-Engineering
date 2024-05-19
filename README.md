@@ -5,7 +5,10 @@
 - 22022609 K67_AI1_UET - Nguyễn Minh Hiếu
 - 22022582 K67_AI1_UET - Nguyễn Quang Huy
 
-# **BÁO CÁO TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
+# Báo cáo:
+`https://drive.google.com/drive/folders/1Tb8lR5yoZH-9JavYYdDkWxayzUHtdHO0?fbclid=IwZXh0bgNhZW0CMTAAAR3RWa_0a5BrIFXou07geaLEwRrzVHr8pSFZbdDdrdM-upSbnv3Dx_ZvluY_aem_AYFtCeqCK5sEw7p9zclqePJFzDwpFtQbFnaz5VGbHNVlpsKvLai8b9nYUHFeCisYw4NBsWgVcV0gqXgfM_oyzcYS`
+
+# **TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
 
 **1. Mục tiêu dự án:**
 - Dự án nhằm xây dựng một trang web bán quần áo trẻ em trực tuyến nhằm cung cấp một trải nghiệm mua sắm thuận tiện và an toàn cho các bậc phụ huynh.
