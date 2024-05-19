@@ -6,7 +6,7 @@
 - 22022582 K67_AI1_UET - Nguyễn Quang Huy
 
 # Báo cáo:
-    t.ly/Eng6G
+  Link : t.ly/Eng6G
 # **TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
 
 **1. Mục tiêu dự án:**
