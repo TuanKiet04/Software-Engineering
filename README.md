@@ -6,7 +6,7 @@
 - 22022582 K67_AI1_UET - Nguyễn Quang Huy
 
 # Báo cáo:
-  Link : t.ly/Eng6G
+  **Link:** https://drive.google.com/drive/folders/1Tb8lR5yoZH-9JavYYdDkWxayzUHtdHO0?fbclid=IwZXh0bgNhZW0CMTAAAR3RWa_0a5BrIFXou07geaLEwRrzVHr8pSFZbdDdrdM-upSbnv3Dx_ZvluY_aem_AYFtCeqCK5sEw7p9zclqePJFzDwpFtQbFnaz5VGbHNVlpsKvLai8b9nYUHFeCisYw4NBsWgVcV0gqXgfM_oyzcYS
 # **TỔNG QUAN DỰ ÁN: BÁN QUẦN ÁO TRẺ EM**
 
 **1. Mục tiêu dự án:**
